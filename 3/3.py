@@ -60,6 +60,6 @@ def oxygen_criteria(x, d):
 
 
 if __name__ == "__main__":
-    
+
     ret = main()
-    print("Advent of Code Day 1\nPart 1 Result: ", ret[0], "\nPart 2 Result: ", ret[1])
+    print("Advent of Code Day 3\nPart 1 Result: ", ret[0], "\nPart 2 Result: ", ret[1])
